@@ -1,5 +1,5 @@
 ---
-title: "STT 461 HW 5"
+title: "Statistical Inference"
 author: "Derien Weatherspoon"
 date: "2023-03-20"
 output: pdf_document
